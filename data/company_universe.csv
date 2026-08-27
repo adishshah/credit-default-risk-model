@@ -1,0 +1,27 @@
+ticker,company,sector,cyclicality,approx_tier,is_backtest_name,notes
+MSFT,Microsoft,Technology,cyclical,high_grade,False,Mega-cap IG anchor
+AAPL,Apple,Technology,cyclical,high_grade,False,Mega-cap IG anchor
+JNJ,Johnson & Johnson,Healthcare,defensive,high_grade,False,One of few AAA-rated corporates historically
+PFE,Pfizer,Healthcare,defensive,high_grade,False,Large-cap pharma IG
+PG,Procter & Gamble,Consumer Staples,defensive,high_grade,False,Stable staples IG
+KO,Coca-Cola,Consumer Staples,defensive,high_grade,False,Stable staples IG
+WMT,Walmart,Consumer Staples,defensive,high_grade,False,Large defensive retailer
+KHC,Kraft Heinz,Consumer Staples,defensive,mid_grade,False,Downgraded toward junk in 2019 - useful mid-tier name
+HD,Home Depot,Consumer Discretionary,cyclical,high_grade,False,Cyclical but strong balance sheet
+MCD,McDonald's,Consumer Discretionary,defensive,high_grade,False,Discretionary but historically recession-resilient
+F,Ford Motor,Consumer Discretionary,cyclical,speculative,False,Cut to junk (BB+) in 2020 - useful crossover name
+VZ,Verizon,Communications,defensive,mid_grade,False,High debt load but stable cash flows
+T,AT&T,Communications,defensive,mid_grade,False,High debt load but stable cash flows
+CHTR,Charter Communications,Communications,cyclical,speculative,False,High leverage cable operator
+LUMN,Lumen Technologies,Communications,cyclical,speculative,False,"Heavily levered legacy telecom, near-distressed for years"
+XOM,ExxonMobil,Energy,cyclical,high_grade,False,"Large-cap energy, still strong IG"
+OXY,Occidental Petroleum,Energy,cyclical,speculative,False,Downgraded to junk in 2020 oil crash
+CAT,Caterpillar,Industrials,cyclical,high_grade,False,Classic cyclical industrial
+GE,General Electric,Industrials,cyclical,mid_grade,True,"BACKTEST NAME: multi-notch downgrade 2018-2019 credit crisis, dividend cut to $0.01"
+AAL,American Airlines,Industrials,cyclical,speculative,False,"Airlines - high operating leverage, junk-rated"
+CCL,Carnival Corp,Consumer Discretionary,cyclical,speculative,False,"Cruise lines - COVID-era distress, junk-rated"
+RCL,Royal Caribbean,Consumer Discretionary,cyclical,speculative,False,"Cruise lines - COVID-era distress, junk-rated"
+NEE,NextEra Energy,Utilities,defensive,high_grade,False,"Regulated utility, low cyclicality"
+DUK,Duke Energy,Utilities,defensive,mid_grade,False,"Regulated utility, low cyclicality"
+NUE,Nucor,Materials,cyclical,mid_grade,False,Steel - classic commodity cyclical
+FCX,Freeport-McMoRan,Materials,cyclical,speculative,False,Copper miner - commodity price sensitive

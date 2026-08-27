@@ -1,0 +1,5 @@
+comparison,n,spearman_rho,p_value
+Altman Z vs Merton Distance-to-Default,26,0.8126495726495726,4.579316418139593e-07
+Altman Z vs Merton implied PD (sign-flipped),26,0.8126495726495726,4.579316418139593e-07
+Altman Z vs illustrative rating tier,26,0.7064564542471024,5.494844683126554e-05
+Merton DD vs illustrative rating tier,26,0.8552616719300166,2.61295866856116e-08

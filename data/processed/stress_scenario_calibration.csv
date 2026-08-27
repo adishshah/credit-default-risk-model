@@ -1,0 +1,4 @@
+scenario,unemployment_change_pp,gdp_decline_pct,aggregate_equity_shock
+baseline,0.0,0.0,0.0
+adverse,2.8,-0.019894187026593624,-0.174205174539681
+severely_adverse,5.6,-0.03978837405318725,-0.348410349079362
